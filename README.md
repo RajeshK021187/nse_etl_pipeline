@@ -29,7 +29,7 @@ nse_etl_pipeline/
 ├── mongodb_schema.md         # MongoDB document structure and index info
 ├── sqlite_schema.sql         # SQLite table creation script
 ├── requirements.txt          # Python dependencies
-├── README.md                 # You are here 📘
+├── README.md                 # readme
 │
 └── output/                   # Generated CSV files
     ├── common_stocks.csv

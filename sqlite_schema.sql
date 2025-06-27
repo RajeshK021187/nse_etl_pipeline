@@ -1,5 +1,3 @@
-📄 **File:** `sqlite_schema.sql`
-
 ```sql
 -- SQLite Schema for Dhan NSE Equity Instruments
 
